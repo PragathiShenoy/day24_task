@@ -1,0 +1,13 @@
+.todo-item {
+    background-color: rgb(79, 146, 100);
+    color: black;
+    width: 350px; 
+    height: 200px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .todo-card h3 {
+    margin-top: 0;
+  }
